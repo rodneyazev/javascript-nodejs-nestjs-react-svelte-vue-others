@@ -1,1 +1,0 @@
-# Javascript Projects - Simple Examples

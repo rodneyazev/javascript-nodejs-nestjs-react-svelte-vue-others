@@ -1,1 +1,1 @@
-# Javascript Projects - Simples Examples
+# Javascript Projects - Simple Examples

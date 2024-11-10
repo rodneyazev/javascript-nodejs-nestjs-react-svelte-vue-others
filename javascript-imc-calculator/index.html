@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora IMC</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h2>Cálculo IMC</h2>
+        <br><p><small style="color:red"><strong><i>* Use ponto (.) em vez de vírgula (,)</i></strong></small></p><br>
+        <div class="input-field">
+            <span>Peso</span>
+            <small>(ex.: 80 ou 80.0)</small>
+            <input type="text" id="peso" maxlength="5">
+        </div>
+        <div class="input-field">
+            <span>Altura</span>
+            <small>(ex.: 1.70)</small>
+            <input type="text" id="altura" maxlength="5">
+        </div>
+        <ul>
+            <li><button class="calcular" onclick="calcularIMC()">CALCULAR</button></li>
+        </ul>
+        <div class="resultado">
+            <span>IMC</span>
+            <div id="imc"></div>
+        </div>
+    </div>
+
+
+    <table>
+        <tr>
+          <th>IMC</th>
+          <th>CLASSIFICAÇÃO</th>
+          <th>OBESIDADE (GRAU)</th>
+        </tr>
+        <tr>
+          <td>MENOR QUE 18,5</td>
+          <td>MAGREZA</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>ENTRE 18,5 E 24,9</td>
+          <td>NORMAL</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>ENTRE 25,0 E 29,9</td>
+          <td>SOBREPESO</td>
+          <td>I</td>
+        </tr>
+        <tr>
+          <td>ENTRE 30,0 E 39,9</td>
+          <td>OBESIDADE</td>
+          <td>II</td>
+        </tr>
+        <tr>
+          <td>MAIOR QUE 40,0</td>
+          <td>OBESIDADE GRAVE</td>
+          <td>III</td>
+        </tr>
+      </table>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

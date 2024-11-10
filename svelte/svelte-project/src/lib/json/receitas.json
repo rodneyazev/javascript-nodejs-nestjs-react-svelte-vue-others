@@ -1,0 +1,67 @@
+[
+    {
+        "nome": "Pasta de Alho Assado",
+        "ingredientes": ["Alho", "Azeite de Oliva"],
+        "imagem": "pasta_de_alho_assado.png"
+    },
+    {
+        "nome": "Patê de Alho Assado",
+        "ingredientes": ["Alho", "Azeite de Oliva"],
+        "imagem": "pate_de_alho_assado.png"
+    },
+    {
+        "nome": "Alho Assado",
+        "ingredientes": ["Alho", "Azeite de Oliva", "Orégano"],
+        "imagem": "alho_assado.png"
+    },
+    {
+        "nome": "Arroz de Alho",
+        "ingredientes": ["Arroz", "Alho", "Óleo"],
+        "imagem": "arroz_de_alho.png"
+    },
+    {
+        "nome": "Pão de Alho",
+        "ingredientes": ["Pão", "Manteiga", "Alho", "Orégano"],
+        "imagem": "pao_de_alho.png"
+    },
+    {
+        "nome": "Macarrão de Alho e Óleo",
+        "ingredientes": ["Macarrão", "Alho", "Óleo", "Manteiga"],
+        "imagem": "macarrao_de_alho_e_oleo.png"
+    },
+    {
+        "nome": "Bacalhau com chips de alho",
+        "ingredientes": ["Bacalhau", "Alho", "Azeite de Oliva", "Limão"],
+        "imagem": "bacalhau_com_chips_de_alho.png"
+    },
+    {
+        "nome": "Manteiga com tomilho e alho",
+        "ingredientes": ["Manteiga", "Alho", "Tomilho"],
+        "imagem": "manteiga_com_tomilho_e_alho.png"
+    },
+    {
+        "nome": "Tortei com recheio de Abóbora",
+        "ingredientes": ["Massa de pastel", "Abóbora", "Tomate", "Alho", "Óleo", "Farinha de rosca", "Noz moscada"],
+        "imagem": "tortei.png"
+    },
+    {
+        "nome": "Creme de Galinha",
+        "ingredientes": ["Frango", "Leite", "Creme de Leite", "Milho", "Ovos"],
+        "imagem": "creme_de_galinha.png"
+    },
+    {
+        "nome": "Panqueca",
+        "ingredientes": ["Farinha de trigo", "Manteiga", "Leite", "Ovos"],
+        "imagem": "panqueca.png"
+    },
+    {
+        "nome": "Milkshake de chocolate",
+        "ingredientes": ["Chocolate", "Chantilly"],
+        "imagem": "milkshake_de_chocolate.png"
+    },
+    {
+        "nome": "Mousse de chocolate",
+        "ingredientes": ["Creme de Leite", "Chocolate", "Ovos", "Manteiga"],
+        "imagem": "mousse_de_chocolate.png"
+    }
+]

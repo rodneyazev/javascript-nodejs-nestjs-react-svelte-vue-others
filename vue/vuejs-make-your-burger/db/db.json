@@ -1,0 +1,63 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "type": "Italian"
+      },
+      {
+        "id": 2,
+        "type": "French"
+      },
+      {
+        "id": 3,
+        "type": "Sourdough"
+      },
+      {
+        "id": 4,
+        "type": "Integral"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "type": "Flank Steak"
+      },
+      {
+        "id": 2,
+        "type": "Soft Tight Steak"
+      },
+      {
+        "id": 3,
+        "type": "Rump Steak"
+      },
+      {
+        "id": 4,
+        "type": "Titty Steak"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "type": "Ordered"
+    },
+    {
+      "id": 2,
+      "type": "Cooking"
+    },
+    {
+      "id": 3,
+      "type": "Done"
+    }
+  ],
+  "burgers": [
+    {
+      "name": "Rodney",
+      "meat": "Flank Steak",
+      "bread": "Italian",
+      "status": "Ordered",
+      "id": 1
+    }
+  ]
+}
